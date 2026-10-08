@@ -4,7 +4,7 @@
 
 IMAGE AUTOPSY is a classical image-processing and computer-vision application for academic digital image forensics. It examines an uploaded image, creates visual evidence maps, localizes suspicious regions, and generates a readable forensic report.
 
-It does not use pretrained CNNs, cloud APIs, or black-box deep-learning classifiers. The system is designed to show why an image looks suspicious, where the evidence appears, and which image-processing tests contributed to the final heuristic score.
+It does not use pre-trained CNNs, cloud APIs, or black-box deep-learning classifiers. The system is designed to show why an image looks suspicious, where the evidence appears, and which image-processing tests contributed to the final heuristic score.
 
 ## Problem Statement
 
